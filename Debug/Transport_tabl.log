@@ -1,0 +1,5 @@
+﻿  Transport_tabl.cpp
+g:\vodenin\vodenin\transport_tabl.cpp(63): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+g:\vodenin\vodenin\transport_tabl.cpp(190): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+g:\vodenin\vodenin\transport_tabl.cpp(97): warning C4101: j: неиспользованная локальная переменная
+  Transport_tabl.vcxproj -> G:\Vodenin\Vodenin\Debug\Transport_tabl.exe
